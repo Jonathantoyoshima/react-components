@@ -1,5 +1,5 @@
 import React from 'react'
-import { render, screen } from 'assets/test-utils'
+import { render, screen } from '../../../assets/test-utils'
 import { Button } from './Button'
 
 test('Deve conter um botão continuar', () => {
